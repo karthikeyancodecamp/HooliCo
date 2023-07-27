@@ -1,0 +1,5 @@
+class Tickets {
+  public static void main(String[] args) {
+      System.out.println("Tickets releated code goes here");
+  }
+}
